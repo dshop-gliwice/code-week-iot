@@ -25,7 +25,6 @@ void updateChannel(float t, float h) {
     Serial.print("Reqeuest response: ");
     Serial.println(client.getString());
   } else {
-
     Serial.printf("Request failed, error: %s\n", client.errorToString(httpCode).c_str());
   }
   Serial.flush();
