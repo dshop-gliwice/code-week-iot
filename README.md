@@ -30,7 +30,6 @@ Go to Sketch > Include Library > [Manage Libraries](tools/screenshots/library_ma
 Search and install 3 packages (paste it exactly like it is):
  - "Adafruit Unified Sensor based libraries"
  - "DHT sensor library"
- - "ArduinoJson"
 
 #### USB drivers
 The newest drivers are available [here](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
